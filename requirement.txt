@@ -1,8 +1,8 @@
-streamlit
-numpy
-pandas
-scikit-learn
-streamlit-option-menu
-matplotlib
-seaborn
-imblearn
+streamlit==1.23.1
+numpy==1.24.4
+pandas==1.5.3
+scikit-learn==1.2.2
+streamlit-option-menu==0.3.5
+matplotlib==3.7.2
+seaborn==0.12.2
+imbalanced-learn==0.10.1
